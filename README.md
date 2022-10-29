@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joel Amenuvor
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Full Stack development, using JavaScript and the MERN Stack.
+- 🌱 I’m a Full Stack developer, using JavaScript and the MERN Stack.
 - 💞️ I’m looking to collaborate on projects that can help me gain experience.
 - 📫 How to reach me, email: jaamen5@gmail.com 
 
